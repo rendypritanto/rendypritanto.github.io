@@ -54,3 +54,11 @@ li a:hover{
     float: left;
     width: 33%;
 }
+table, th, td {
+    border: 2px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: red;
+}
