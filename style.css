@@ -36,27 +36,15 @@ li a:hover{
 }
 .dua .satu {
     padding: 10px; 
-    
 }
 .con{
     overflow: auto;
-    width: 100%;
-    padding: 1%;
 }
-.iju{
+.con div{
     background-color: blueviolet;
     float: left;
-    width: 33%;
-}
-.yul{
-    background-color: yellow;
-    float: left;
-    width: 33%;
-}
-.hul{
-    background-color: pink;
-    float: left;
-    width: 33%;
+    width: 28%;
+    margin: 3px;
 }
 table, th, td {
     border: 2px solid black;
