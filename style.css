@@ -62,3 +62,6 @@ table, th, td {
 tr:hover{
     background-color: red;
 }
+div{
+    display: inline;
+}
