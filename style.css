@@ -1,6 +1,6 @@
 ul{
     list-style-type: none;
-    background-color: green;
+    background-color: darkgoldenrod;
     padding: 0;
     margin: 0;
     overflow: auto;
@@ -29,7 +29,7 @@ li a:hover{
 .kosong{
     background-color: blueviolet;
     list-style-type: none;
-    background-color: brown;
+    background-color: darkgoldenrod;
     margin: 0;
     padding: 0;
     overflow: auto;
